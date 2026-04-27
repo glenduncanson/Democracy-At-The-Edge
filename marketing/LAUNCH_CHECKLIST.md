@@ -17,9 +17,12 @@
 
 ## Then post the Centrist Challenge video
 
-The video is in this folder: `centrist_challenge_v1.mp4` (32.7s, 1080×1920 vertical, 9MB).
+Two versions are in this folder:
 
-### Suggested caption
+- **`centrist_challenge_v1.mp4`** — calm version (30.6s, 1080×1920 vertical, 12MB). Lead with this.
+- **`centrist_challenge_planB.mp4`** — Plan B / panic version (27.0s, 1080×1920, 8MB). Hold in reserve. Post 5–7 days after v1 if engagement is low.
+
+### Suggested caption — calm v1
 
 > **The Centrist Challenge.**
 >
@@ -28,6 +31,16 @@ The video is in this folder: `centrist_challenge_v1.mp4` (32.7s, 1080×1920 vert
 > Democracy at the Edge — a free comic book about populism, power and the boring stuff that actually keeps democracy working. No paywall. No catch. Now available in paperback too.
 >
 > Can balanced content go viral? Share this if you want to find out.
+>
+> 🔗 glenduncanson.github.io/Democracy-At-The-Edge
+
+### Suggested caption — Plan B (when v1 underperforms)
+
+> **The calm version flopped. Course it did.**
+>
+> So — Plan B. Outrage. Fear. THEY'RE COMING for your kids, your jobs, your wheelie bins, your Sunday roast.
+>
+> The algorithm loves a meltdown. My comic book's free. If you can't beat them, join them.
 >
 > 🔗 glenduncanson.github.io/Democracy-At-The-Edge
 
